@@ -1,0 +1,21 @@
+C:/Users/HAMEL/Desktop/Situation-Professionnelle---SuiviA-master/geocode/bin/Debug/GoogleDirections.XML
+C:/Users/HAMEL/Desktop/Situation-Professionnelle---SuiviA-master/geocode/bin/Debug/GoogleDirections.dll
+C:/Users/HAMEL/Desktop/Situation-Professionnelle---SuiviA-master/geocode/bin/Debug/GoogleDirections.pdb
+C:/Users/HAMEL/Desktop/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.csprojResolveAssemblyReference.cache
+C:/Users/HAMEL/Desktop/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.csproj.CoreCompileInputs.cache
+C:/Users/HAMEL/Desktop/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.dll
+C:/Users/HAMEL/Desktop/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.pdb
+C:/Users/utilisateur/Desktop/application E4/suiviA/Situation-Professionnelle---SuiviA-master/geocode/bin/Debug/GoogleDirections.XML
+C:/Users/utilisateur/Desktop/application E4/suiviA/Situation-Professionnelle---SuiviA-master/geocode/bin/Debug/GoogleDirections.dll
+C:/Users/utilisateur/Desktop/application E4/suiviA/Situation-Professionnelle---SuiviA-master/geocode/bin/Debug/GoogleDirections.pdb
+C:/Users/utilisateur/Desktop/application E4/suiviA/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.csprojResolveAssemblyReference.cache
+C:/Users/utilisateur/Desktop/application E4/suiviA/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.csproj.CoreCompileInputs.cache
+C:/Users/utilisateur/Desktop/application E4/suiviA/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.dll
+C:/Users/utilisateur/Desktop/application E4/suiviA/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.pdb
+/Users/loicduhamel/Desktop/SuiviA Salle 9/Situation-Professionnelle---SuiviA-master/geocode/bin/Debug/GoogleDirections.XML
+/Users/loicduhamel/Desktop/SuiviA Salle 9/Situation-Professionnelle---SuiviA-master/geocode/bin/Debug/GoogleDirections.dll
+/Users/loicduhamel/Desktop/SuiviA Salle 9/Situation-Professionnelle---SuiviA-master/geocode/bin/Debug/GoogleDirections.pdb
+/Users/loicduhamel/Desktop/SuiviA Salle 9/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.csprojResolveAssemblyReference.cache
+/Users/loicduhamel/Desktop/SuiviA Salle 9/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.csproj.CoreCompileInputs.cache
+/Users/loicduhamel/Desktop/SuiviA Salle 9/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.dll
+/Users/loicduhamel/Desktop/SuiviA Salle 9/Situation-Professionnelle---SuiviA-master/geocode/obj/Debug/GoogleDirections.pdb

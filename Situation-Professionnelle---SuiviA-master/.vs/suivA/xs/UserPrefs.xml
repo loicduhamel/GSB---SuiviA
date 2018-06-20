@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5521281D-950A-43E6-8620-9E26D708CBF2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="suivA/AddMedecin.cs">
+    <Files>
+      <File FileName="suivA/AddCabinet.cs" Line="20" Column="9" />
+      <File FileName="suivA/AddMedecin.cs" Line="8" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.suivA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
